@@ -22,6 +22,6 @@ https://www.threatdown.com/blog/microsoft-might-kick-security-vendors-out-of-the
 ## NVIDIA
 https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/
 
-# Steam
+## Steam
 https://store.steampowered.com/hwsurvey/steam-hardware-software-survey-welcome-to-steam
 https://web.archive.org/web/20201104192639/https://store.steampowered.com/hwsurvey/steam-hardware-software-survey-welcome-to-steam
