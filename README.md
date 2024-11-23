@@ -2,6 +2,8 @@
 
 ## Proton
 https://www.protondb.com/
+https://www.winehq.org/
+https://en.wikipedia.org/wiki/DXVK
 
 ## Vanguard und BattleEye Linux Support
 https://www.leagueoflegends.com/de-de/news/dev/dev-vanguard-x-lol/
@@ -21,7 +23,19 @@ https://www.threatdown.com/blog/microsoft-might-kick-security-vendors-out-of-the
 
 ## NVIDIA
 https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/
+https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/
+https://wiki.archlinux.org/title/Wayland
 
 ## Steam
+https://de.wikipedia.org/wiki/SteamOS
 https://store.steampowered.com/hwsurvey/steam-hardware-software-survey-welcome-to-steam
 https://web.archive.org/web/20201104192639/https://store.steampowered.com/hwsurvey/steam-hardware-software-survey-welcome-to-steam
+
+## Sonstiges
+https://en.wikipedia.org/wiki/List_of_Linux_games
+https://en.wikipedia.org/wiki/List_of_PC_games
+
+## Assets
+https://de.wikipedia.org/wiki/Datei:Valve_logo.svg
+https://de.wikipedia.org/wiki/Datei:Steam_Deck_(front).png
+https://de.wikipedia.org/wiki/Datei:Steam_2016_logo_black.svg
